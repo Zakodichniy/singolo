@@ -116,6 +116,8 @@ h1 {
     line-height: 18px;
     color: #666d89;
     font-weight: 900;
+    white-space: nowrap; 
+    overflow: hidden;
 }
 
 .about-us-box p {

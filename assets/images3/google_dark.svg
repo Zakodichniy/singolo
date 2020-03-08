@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" width="34" height="34">
+	<defs>
+		<image width="34" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAFBUlEQVRYR82XS2wbVRSG/3PHfQS1agpC4lnFG8SmNKgsANGSLkEFyqIUJAoOeAIKntRBIuPAomYB8QSJOhkTlYxLDEWC0kVbqOgyoUWIBagp3SAWNCqvSgjVVSNCa/sedMczYZL4MY4owjvb95773f887jmE/8mHWuF4LmHdIgRtJ+atADYC2ACg3bNRBHAewFkmOiklH38vZ/4a1n4okLhh3SuAJAO7GHwMkqZAcpqkLDpjr02rw/TeNzpZiHaw6ITgLgI9RsAhCWTztvl1M6CGIDt3fqK133QuC+bdDM6WZ69kC4W0unnTTyyWbo+sWZUkUBJEB4sXosnDh5+o1NtYFyS+5627SMoPmOV0efZKMizA4oNcoLWrCwTqYCGeyY+88l0tmJogPX2ZB5jpOEuk8++Y2abXD7Eg/pKVJIE0EW8fH019uXjLEpCeRGYjE50CZNKxBwshzgi9RDeGYoDIEvOW8VzqbHDjEhDdsL5liYP/lhKLKT1ldju2ubkuiN6XeZslX5/PDcZCX3MZC+NG5igRfnRGUy/72+cVecHIbJKML0qzf3UsNzDDMqkAXrFm9YwgPPiunTqj9s2D6EbmADP/lM8NpusZjCX3ta+oXNkHUFCxIsBHHTvVHRZErYsnhtJEdLtjp56fB+ntTa8paW2XSpfnbmikhp6wToPQziy7ibQOgCeUEU2T0f3ZwZlWQFxV1rb9saIyt25sLD3rKhI3hp8C5K68ndpRz1g8MdRFJCaJ8Pr4qOmqphuZCaUOs9yWzw1OtQJSPTdzFBCH8vbARz7IGCT/0ChTevqsNDP2EpAdt81+Zcj/LQiiGxYDNOXYA9uagakMgqA78vZArwdifQWWrza6la8IgGJJWxktZPuLviJB17QEkhjqAok387Z5vw/yW7kk7yvsb+xnL0Y6AcwAPKXcohRijd5HBfuqCnCXggXIfQwbKeM+lFrkRN42b3ZBdMMqO7YZaSalyppI5WpMvazegTOObUYDai0x4dhmw4fVP9sH4WYbgifoyeFOVPi0p0AhmLqtuMYTwT3bB7mISnmb31vUUkapsVJeTTLjWQAdC8rzgkwKH6zKNdAik45trvdBzjDLPY2CVTeGJ6vu4EJJW9WvgrUnYe1gwhEVE8rYP5lEM4490PTB9Fw64tjmJh/kQ5b4plH6upIzpp2cefcCN3m1pBXX+vu9B/AexzafrmZN33APWD7cqKBVfQ83OBeCWOdU3+or0izgg/+7BY3E5/nRgXEXRDXFGuGX0uW59fVK/HzqMqZJ4JibqF68BItcWBCvxF+sMG5VTfZ8avUY1seS5ff1Hr0Xk0MdlYpQtSL4DBSJMOKX/LAQrhcSQ2lB4s5x23xSfZ8HUZ06gBPly3PR/6INiKxtUy59yO/wFxQb3bBsMG5zcubjrdyu1bV6wjoCws+ObRr+3gUg3vigWsXCNW4VY8UL0c3B8WJJ+fXGiJPXsnlmIbYuHisajhOSee+BXGqkVelrrY8nrL1E6A89TvhGvLGiAMb50uxc93IDuNqftk2AsIGYY4vHiJoxUusmbmfP1A1Gtjw7NxIWqDpytu0BIUnEE8GOvdY5oYZwt8MH+tymmfGpBE/JipyOEF8KDuFlpnVCE50C1AXCo+pdEsCo36k3cnEoEN+AarKvatc9AmALwKpBihJwo1tlgd8BnPMaolMrK39+pprisPHVEkhYo8tZ9zdvk35BXbvUpgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Footer">
+		<g id="Social Media">
+			<g id="Google">
+				<use id="Ellipse 2 copy" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" width="34" height="34">
+	<defs>
+		<image width="34" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAEvUlEQVRYR82XTWwbVRDH//PslAYlqgtC4rNKLohLSVA5AKIlOYIKLYdSkChywA4oeBMHCa8Dh/gC8QaJ2lkTleyWWBQJSg8NUNFjQosQB5ASekEcSFS+KiFUV7Ewje03aDfeyLW99iZAha9+b+b3ZufjP4T/yY82w/F8RLtdCNpPzPsA7AawC0CgYiMH4CKAC0x0Tko+815G/dWrfU8gIUV7QABRBg4z+BNIWgDJRZIyZ0y/vmg5Cw+90ctCBMCiF4L7CHSAgJMSSJm6+nUroKYghw597AvcupwC8xEGp0r5q6lsNmG9vOUvGEwE/B03RAkUBdGJ3KXu6KlTT5XdLrqChEbeupekfJ9ZLpbyV6NeAWod2UCd27ME6mIhnjPTr37XCKYhyOBw8mFmOsMSCfMdNdXy+R4OhF7WoiSQIOL9M1PxL2uv1IEMRpK7meg8IKOGPpb14MPzkbAyEQREipj3zmTiF6ov1oGEFe1bljjxb0WilrISmSOGru5xBQkPJ99myTeZmbGg52du4WBISc4R4UdjKv6Kc30jIi8qyR7J+KKY/6trq4nplclK4LaO7SuC8Mi7enzJurcBElaSx5n5JzMzlvBq8J+cC0UmEkR0l6HHX9gAGRpKdBR97VeKq4Wb3aLxUnSiqwxfwEjF7AZW/QtHJ3tR5tMAuipGUwxaInDPjK6ONgK2o9LZ/kdbubBjejqRtyMSUiafAeRhU48fdHvl4LCWYMYIfNRfDROMHg20ldeWq1p9tYk5Q1efdLNp5QogTpp67EMHZBqSf2hWKRWQcQA5IqTXxLZUNjWaC0Um+ojEfGNnNGDoMdcWYFUQBN1t6rGhCoj2FVi+ZmbGFlzp6x3mAJ5bP08NqowWDD3W3yyPrEeAxJumrj7kgPxWKsoHs8fGVtzDqEUJOLqJBG36WSw79qD0+c+aunqbDRJWtJKhq/5mTsLKZBDgWa8gDIyaeuvx4Ph2QNjQ1ZaSIKwkZxt/hgZ4PrqvUYXVVZyi2b4dkMsol/odbeFaORHtIBOsMm3xa50fzqeBzz9v6OpOB2SJWY40S1brol2qpbV5EHqbkniMRqXi0oau9jggH7DEN14GXaVvWLni0nOal2z1AyoD8H5DV59dr5rhyUGwfKxVQ7POssQBl4jkABpt1jdqo2g3NBKfm1OxGRvEEsU+wi/F1cLOpi2+TOMAWZFwBLN1fYWAOeGT6WMp9/Kvhai0+Mtlxh2WyN6olEFF+0iy/P56Dj1B4p4ZXX3abokOqaXUAZwtrRa6r4cM8He2W/PpUUfhX9M7woqmg3GnkXEfVK0K18v/4Yh2GoSfDV1VnPPXgFTWB0sqZr1UkBendQm6LqKDuUvde6rXi7puWlkjzv2X4pmF2Fe7VjRdJyTz+PFMPL2Vl9dFIqKNE2HU8zrhGKisFVkwLhbzhYGtJvC6Pm2fBWEXMQdr14iGOdLo5bayZxoAI1XKF9JegdZXzvYREKJEPFut2Bv5aTlxrUu2wgeG7cnL+FSCF2RZLvqJr1Qv4SWmHcInegWoD4QnAM4KYMpR6s0+sScQx4Alstd8Nz4OYC/A1uDrJuAWu/UDvwNYBsgS1+e3lf/8zBLFXvNrUyBejW7l3N/cCzBBIro7QAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Footer">
+		<g id="Social Media">
+			<g id="Twitter">
+				<use id="Ellipse 2 copy 2" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+			</g>
+		</g>
+	</g>
+</svg>
