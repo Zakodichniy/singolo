@@ -1,2 +1,2 @@
 # singolo
-http://zakodichniy.github.io/singolo/
+http://zakodichniy.github.io/singolo/singolo.html
