@@ -7,19 +7,21 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="singolo.css">
+    
 </head>
 <body>
     
     <header>
         <div class="logo">singolo<span class="red">*</span></div>
             <div>
+                <a name="home"></a>
                 <nav class="navbar">
-                    <ul>
-                        <li><a href="#">home</a></li>
-                        <li><a href="#">services</a></li>
-                        <li><a href="#">portfolio</a></li>
-                        <li><a href="#">about</a></li>
-                        <li><a href="#">contact</a></li>
+                    <ul id="nav">
+                        <li><a href="#" class="active">home</a></li>
+                        <li><a href="#services">services</a></li>
+                        <li><a href="#portfolio">portfolio</a></li>
+                        <li><a href="#about">about</a></li>
+                        <li><a href="#contact">contact</a></li>
                     </ul>
                 </nav>
         </div>
@@ -27,14 +29,20 @@
 
     <main>
         <section class="slider">
-            <div class="slider-arrow arrow-left"></div>
-            <div class="slider-content">
-                <div class="slider-img slider-img1"></div>
-                <div class="slider-img slider-img2"></div>
+            
+            <div class="slider-arrow arrow-left" id="arrow-left" onclick="minusSlide()"></div>
+            <div class="slide slider-content">
+                <div class="slider-img1"></div>
+                <div class="slider-img2"></div>
             </div>
-            <div class="slider-arrow arrow-right"></div>
+            <div class="slide"><img src="assets/images1/slider2.svg" alt="Cлайд № 2"></div>
+            <div class="slider-arrow arrow-right" id="arrow-right" onclick="plusSlide()"></div>
+            
         </section>
+        <a name="services"></a>
+       
         <section class="services">
+            
             <h1>Our Services</h1>
             <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum.Duis mollis, non commodo luctus,
                 nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo,
@@ -87,7 +95,7 @@
         </section>
 
 <!--Singolo 2 -->
-
+    <a name="portfolio"></a>
     <div class="portfolio">
             <h1>Portfolio</h1>
             <p>Duis mollis est non commodo luctus</p>
@@ -117,6 +125,7 @@
                 <div class="portfolio-image-box"><img src="assets/images2/image-15.png" alt=""></div>
             </div>
         </div>
+        <a name="about"></a>
         <div class="about-us">
             <h1>About Us</h1>
             <p>As a result of high radiocaesium bioaccumulation factors, fish have remained contaminated in some areas, despite low radiocaesium levels in water.</p>
@@ -176,6 +185,7 @@
                             <button type="submit" form="form1" value="Submit">Submit</button>
         
                         </form>
+                        <a name="contact"></a>
                         <aside class="contact-information">
                             <h3>Contact information</h3>
                             <p>Lorem ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content. It's also called placeholder (or filler) text.</p>
@@ -201,6 +211,6 @@
                     </ul>
                 </div>
             </footer>
-    
+            <script src="script.js"></script>
 </body>
 </html>

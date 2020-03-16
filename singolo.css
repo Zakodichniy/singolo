@@ -6,12 +6,15 @@ body {
 
 header {
     height: 89px;
+    position: sticky;
+    top:0;
     display: flex;
     justify-content: space-between;
     align-items: center;
     text-transform: uppercase;
     background-color: #2d303a;
     border-bottom: 6px solid #323746;
+    z-index: 10;
 }
 
 .logo {
@@ -38,9 +41,7 @@ ul {
     width: 371px;
     margin: 0;
     display: flex;
-    position: relative;
-    justify-content: space-between;
-    align-items: center;   
+    justify-content: space-between; 
 }
 
 .navbar ul li {
@@ -67,14 +68,20 @@ a {
 }
 
 .navbar ul li a {
-    display: flex;
+    display: block;
     font-size: 12px;
     font-weight: 700;
     color: #fff;
 }
 
+
+
 .navbar ul li a:hover {
     color: #f06c64;
+}
+
+.active {
+    text-decoration: underline;
 }
 
 p {
@@ -83,58 +90,59 @@ p {
 }
 
 .slider {
-    height: 593px;
-    display: flex;
-    align-content: center;
-    background-color: #f06c64;
-    justify-content: space-between;
+    position: relative;
     border-bottom: 7px solid #ea676b;
+}
+
+.slide {
+    background-size: contain;
+    height: 593px;
+    width: 100%;
+    display: none;
+    overflow: hidden;
 }
 
 .slider-content {
     display: flex;
-    align-content: center;
-    justify-content: space-between;
+    background-color: #f06c64;
+    position: relative;
+
        
 }
 
 .slider-arrow {
     width: 30px;
     height: 30px;
-    margin-top: 281px;
-    background-image: url('assets/images1/arrow.svg');
-    background-size: contain;
-    background-repeat: no-repeat;
+    position: absolute;
+    top: 295px;
+    background: url('assets/images1/arrow.svg') no-repeat;
     cursor: pointer;
+    z-index: 6;
 }
 
 .arrow-left {
-   margin-left: 40px;
-   margin-right: 40px;
+    left: 40px;
 }
 
 .arrow-right {
-    margin-right: 40px;
+    left: 953px;
     -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
   }
 
-
-.slider-img {
-    background-repeat: no-repeat;
-}
-
 .slider-img1 {
     width: 260px;
     height: 600px;
-    margin: -17px 0 0 15px;
-    background-image: url('assets/images1/vertical.svg');
+    margin: -17px 0 0 109px;
+    background: url('assets/images1/vertical.svg') no-repeat;;
 }
 .slider-img2 {
     height: 420px;
     width: 600px;
-    margin: 70px 0 0 -14px;
-    background-image: url('assets/images1/horizontal.svg');
+    position: absolute;
+    top: 86px;
+    left: 360px;
+    background: url('assets/images1/horizontal.svg') no-repeat;;
 }
 
 .services {
