@@ -114,7 +114,7 @@ p {
     width: 30px;
     height: 30px;
     position: absolute;
-    top: 295px;
+    top: 281px;
     background: url('assets/images1/arrow.svg') no-repeat;
     cursor: pointer;
     z-index: 6;
@@ -140,9 +140,55 @@ p {
     height: 420px;
     width: 600px;
     position: absolute;
-    top: 86px;
+    top: 71px;
     left: 360px;
     background: url('assets/images1/horizontal.svg') no-repeat;;
+}
+
+
+.slider-phone-button1 {
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    position: absolute;
+    top: 459px;
+    left: 196px;
+    z-index: 7;
+    cursor: pointer;
+}
+
+.slider-phone-button2 {
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    position: absolute;
+    top: 261px;
+    left: 432px;
+    z-index: 7;
+    cursor: pointer;
+}
+
+.slider-black-screen1 {
+    height: 334px;
+    width: 188px;
+    position: absolute;
+    top: 117px;
+    left: 125px;
+    background-color: #0f0f0f;
+    z-index: 8;
+    
+}
+
+.slider-black-screen2 {
+    height: 189px;
+    width: 334px;
+    position: absolute;
+    top: 189px;
+    left: 484px;
+    background-color: #0f0f0f;
+    z-index: 8;
+   
+    
 }
 
 .services {

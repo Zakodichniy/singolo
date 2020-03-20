@@ -33,7 +33,7 @@ function currentSlide(n) {
 /* Основная функция слайдера */
 function showSlides(n) {
     var i;
-    var slides = document.getElementsByClassName("slide");
+    var slides = document.querySelectorAll(".slide");
     
     if (n > slides.length) {
       slideIndex = 1
@@ -48,3 +48,14 @@ function showSlides(n) {
     slides[slideIndex - 1].style.display = "block";
    
 }
+
+//черный экран телефонов:
+
+
+
+document.querySelector('.slider-phone-button1').addEventListener('click', () => {
+    document.querySelector(".slider-black-screen1").toggleAttribute('hidden');
+});
+document.querySelector('.slider-phone-button2').addEventListener('click', () => {
+    document.querySelector(".slider-black-screen2").toggleAttribute('hidden');
+});
